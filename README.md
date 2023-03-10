@@ -24,7 +24,11 @@ Have data you want to share with the world? You've got options!
 
 ## 2. Decide how you want to visualize the data
 
+**TODO: Link to example visualizations and viz libraries (d3js, chartjs, etc)**
+
 ## 3. Prototype your visualization in Postman!
+
+**TODO: Add visualizer resources + video**
 
 ## 3. Add your visualization to your project
 
@@ -35,3 +39,5 @@ Fork a starter template of your choice and follow the instructions in the commen
 - Python Flask starter template
 
 ## Examples
+
+**TODO: Link to visualizer example workspace**
