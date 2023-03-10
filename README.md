@@ -19,7 +19,7 @@ First you'll need data to visualize! What story are you trying to tell? Once you
 Have data you want to share with the world? You've got options!
 
 - Build your own custom API
-- Use [Postman mock servers](https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/) to serve your data
+- Use [Postman mock servers](https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/) to "fake" and API to serve your data
 - Host a file for free on websites like GitHub and access it via a `GET` request to the hosted file. We recommend using JSON file format to easily parse the response.
 
 ## 2. Decide how you want to visualize the data
