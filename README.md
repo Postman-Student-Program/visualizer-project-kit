@@ -9,17 +9,25 @@ Create a free Postman account [here](https://www.postman.com/) and [sign up as a
 First you'll need data to visualize! What story are you trying to tell? Once you can answer that, there are several ways to find APIs that give you related data.
 
 ### Postman API Network
+Search for APIs directly in Postman using the Search bar at the top, or by clicking the "Explore" tab and searching APIs by category.
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/9841162/227543200-11921d15-bb92-44c5-9d4d-b8be3fad5da4.png">
+
+Note that anyone can publish APIs and collections to Postman's network, so check the author and lean on entities that match the source organization. Authors such as "Postman" and "Postman DevRel" tend to publish quality content, too. 
 
 ### Look for government APIs
+World governments often make their datasets available via APIs. Try searching for something like "US population data APIs", "historical climate data APIs" and see what you find. 
 
-### Search via a search engine
+For example, the US government has a selection of [Census related APIs](https://www.census.gov/data/developers/data-sets.html).  
+### Search online
 
+Use a search engine or AI search to find APIs for other data/services you are interested. For example, searching "Spotify API" will take you to their API docs that tell you how to get started. 
 ### Host your own data!
 
 Have data you want to share with the world? You've got options!
 
-- Build your own custom API
-- Use [Postman mock servers](https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/) to "fake" an API to serve your data
+- Build and host your own custom API
+- Use [Postman mock servers](https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/) to "fake" an API to publicly serve your data over the web
 - Host a JSON file for free on websites like [GitHub](https://github.com/) and access it via a `GET` request to the hosted file URL. Check out these [public JSON datasets](https://github.com/jdorfman/awesome-json-datasets) for inspiration!
 
 ## 2. Decide how you want to visualize the data
