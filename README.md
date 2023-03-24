@@ -11,7 +11,7 @@ First you'll need data to visualize! What story are you trying to tell? Once you
 ### Postman API Network
 Search for APIs directly in Postman using the Search bar at the top, or by clicking the "Explore" tab and searching APIs by category.
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/9841162/227543200-11921d15-bb92-44c5-9d4d-b8be3fad5da4.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/9841162/227543200-11921d15-bb92-44c5-9d4d-b8be3fad5da4.png">
 
 Note that anyone can publish APIs and collections to Postman's network, so check the author and lean on entities that match the source organization. Authors such as "Postman" and "Postman DevRel" tend to publish quality content, too. 
 
@@ -33,6 +33,15 @@ Have data you want to share with the world? You've got options!
 ## 2. Decide how you want to visualize the data
 
 **TODO: Link to example visualizations and viz libraries (d3js, chartjs, etc)**
+JavaScript
+- [ChartJS](https://www.chartjs.org/docs/latest/)
+- [d3.js](https://observablehq.com/@d3/gallery)
+- [Highcharts](https://www.highcharts.com/)
+
+Python
+- [Matplotlib](https://matplotlib.org/api/index.html)
+- [Plotly](https://plot.ly/python/)
+- [Seaborn](https://seaborn.pydata.org/)
 
 ## 3. Prototype your visualization in Postman!
 
@@ -44,7 +53,9 @@ Fork a starter template of your choice and follow the instructions in the commen
 
 - [Vanilla HTML/JS/CSS starter template](https://replit.com/@ClaireFroelich/Postman-x-Lehman-Hack-JavaScript-Project-Template#index.html)
 - React starter template
-- Python Flask starter template
+- [Python starter template (Google Colab*)](https://colab.research.google.com/drive/1cdJUlFub--p_1RQ4913RxJDtR957EXdo?usp=sharing)
+
+*requires a Google account
 
 ## Examples
 
