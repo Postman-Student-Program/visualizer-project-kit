@@ -51,12 +51,10 @@ Python
 
 Fork a starter template of your choice and follow the instructions in the comments and README.md to display a production version of your visualization
 
-- [Vanilla HTML/JS/CSS starter template](https://replit.com/@ClaireFroelich/Postman-x-Lehman-Hack-JavaScript-Project-Template#index.html)
+- [Vanilla HTML/JS/CSS starter template](https://replit.com/@postman/NYC-Subway-Ridership-API-data-visualization-example)
 - React starter template
 - [Python starter template (Google Colab*)](https://colab.research.google.com/drive/1cdJUlFub--p_1RQ4913RxJDtR957EXdo?usp=sharing)
 
 *requires a Google account
 
-## Examples
 
-**TODO: Link to visualizer example workspace**
