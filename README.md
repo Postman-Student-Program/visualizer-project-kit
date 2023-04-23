@@ -42,9 +42,9 @@ ex: "List 10 weather data APIs, with links to their documentation"
 
 Have data you want to share with the world? You've got options!
 
-- Build and host your own custom API
-- Use [Postman mock servers](https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/) to "fake" an API to publicly serve your data over the web
-- Host a JSON file for free on websites like [GitHub](https://github.com/) and access it via a `GET` request to the hosted file URL. Check out these [public JSON datasets](https://github.com/jdorfman/awesome-json-datasets) for inspiration!
+- Use [Postman mock servers](https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/) to "fake" an API to publicly serve your data over the web. Good for limited usage. This [quick video](https://www.youtube.com/watch?v=n_7UUghLpco) will help you set it up!
+- Host a JSON file for free on websites like [GitHub](https://github.com/) and access it via a `GET` request to the hosted raw file URL. Check out these [public JSON datasets](https://github.com/jdorfman/awesome-json-datasets) for inspiration!
+- Build and host your own custom API (more advanced)
 
 ## 2. Visualize your data with code
 
