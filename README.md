@@ -46,7 +46,7 @@ Have data you want to share with the world? You've got options!
 - Host a JSON file for free on websites like [GitHub](https://github.com/) and access it via a `GET` request to the hosted raw file URL. Check out these [public JSON datasets](https://github.com/jdorfman/awesome-json-datasets) for inspiration!
 - Build and host your own custom API (more advanced)
 
-## 2. Visualize your data with code
+## 3. Visualize your data with code
 
 Fork a starter template of your choice and follow the instructions in the comments and README.md to display a production version of your visualization
 
