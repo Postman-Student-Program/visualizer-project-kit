@@ -51,17 +51,22 @@ Have data you want to share with the world? You've got options!
 Fork a starter template of your choice and follow the instructions in the comments and README.md to display a production version of your visualization
 
 - [Vanilla HTML/JS/CSS starter template](https://replit.com/@postman/NYC-Subway-Ridership-API-data-visualization-example)
-- React starter template
+- [React starter template](https://replit.com/@postman/NYC-Subway-Ridership-React-API-data-visualization-ex)
 - [Python starter template (Google Colab*)](https://colab.research.google.com/drive/1cdJUlFub--p_1RQ4913RxJDtR957EXdo?usp=sharing)
 
 *requires a Google account
 
 ### Useful visualization libraries
 
-JavaScript
+JavaScript (vanilla)
 - [ChartJS](https://www.chartjs.org/docs/latest/)
 - [d3.js](https://observablehq.com/@d3/gallery)
 - [Highcharts](https://www.highcharts.com/)
+
+React 
+- [Recharts](http://recharts.org/en-US/)
+- [Victory](https://formidable.com/open-source/victory/)
+- [d3.js](https://observablehq.com/@d3/gallery) with React wrapper libraries like [d3-react-component](https://www.npmjs.com/package/d3-react-component)
 
 Python
 - [Matplotlib](https://matplotlib.org/api/index.html)
