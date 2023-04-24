@@ -45,7 +45,13 @@ Have data you want to share with the world? You've got options!
 - Host a JSON file for free on websites like [GitHub](https://github.com/) and access it via a `GET` request to the hosted raw file URL. Check out these [public JSON datasets](https://github.com/jdorfman/awesome-json-datasets) for inspiration!
 - Build and host your own custom API (more advanced)
 
-## 3. Visualize your data with code
+## 3. Explore the API in Postman
+
+Either fork an existing collection for an API or make a [new collection](https://learning.postman.com/docs/getting-started/creating-the-first-collection/#:~:text=Postman%20Collections%20are%20a%20group,particular%20request%20in%20your%20history.) in a workspace to start making calls to the API in inspecting the response. 
+
+Once you understand the shape of the response, you'll be ready to start incorporating the data from the API in your app with code!
+
+## 4. Visualize your data with code
 
 Fork a starter template of your choice and follow the instructions in the comments and README.md to display a production version of your visualization
 
