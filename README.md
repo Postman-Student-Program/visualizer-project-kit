@@ -5,8 +5,7 @@ Data is as powerful as it is understandable. This kit will help you build a host
 Create a free Postman account [here](https://www.postman.com/) and [sign up as a Postman Student Expert]() if you haven't already!
 
 ## 1. Decide what you want to show
-What story are you trying to tell, o
-r what tool are you trying to build?
+What story are you trying to tell, or what tool are you trying to build?
 
 Once you can answer that, there are several ways to find APIs that give you relevant data.
 
